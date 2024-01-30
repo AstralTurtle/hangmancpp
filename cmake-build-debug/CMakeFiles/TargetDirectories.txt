@@ -1,0 +1,3 @@
+F:/dev/hangmancpp/cmake-build-debug/CMakeFiles/hangmancpp.dir
+F:/dev/hangmancpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/dev/hangmancpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
